@@ -67,7 +67,7 @@ function display_all_acf_fields() {
         
         /*
         
-        HERE IS WHERE YOU ADD YOUR ADVANCED CUSTOM FIELD THEME HOOKS SUCH AS get_field($var) and the_field($var)
+        HERE IS WHERE YOU ADD EXTRA CONTENT, ADVANCED CUSTOM FIELD THEME HOOKS SUCH AS get_field($var) and the_field($var), ETC.
         
  ___________________          _-_
  \==============_=_/ ____.---'---`---.____
